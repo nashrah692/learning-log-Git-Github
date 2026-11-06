@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📒 learning-log
+# 📒 learning-log Git & Github
 
 **My first only Git project: a tiny log of four text files, built to practice every basic Git skill in one go.**
 
@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| 🏷️ **Project** | learning-log |
+| 🏷️ **Project** | learning-log Git & Github |
 | 📝 **What it is** | A practice repo with four small text files and a very deliberate history |
 | 🎯 **Why I made it** | The big project at the end of Part 1 (Terminal and Git basics) of my learning roadmap |
 | 💻 **Where I built it** | The terminal on my Windows 11 laptop, with Git 2.52.0 |
